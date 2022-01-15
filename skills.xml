@@ -1,0 +1,14 @@
+  <?xml version="1.0" encoding="UTF-8" ?>
+  <skills>
+  	<basic theory>
+		<theory>bug reports<theory/>
+		<theory>documentation<theory/>
+		<theory>types of testing<theory/>
+		<theory>methods<theory/>
+	<basic theory/>
+	<stress testing>Jmeter<stress testing/>
+	<dev tools>Google Chrome<dev tools/>
+	<API testing>Postman<API testing/>
+	<VPN>why it need<VPN/>
+	<other skills><other skills/>
+  <skills/>
