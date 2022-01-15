@@ -1,1 +1,7 @@
-
+<bug_id>1<bug_id/>
+<title>цвет текста кнопки "BE" сливается с цветом фона кнопки при наведении курсора на главной странице<title/>
+<environment>cat/etc/os-release. Google Chrome Версия 90.0.4430.212<environment/>
+<precondition>зайти на сайт http://www.logoysk.gov.by/?template=logoyskgovby_1.0<precondition/>
+<stepes to reproduce>навести курсор на кнопку 'BE'<stepes to reproduce/>
+<actual result>цвет текста кнопки "BE" сливается с цветом фона кнопки при наведении курсора<actual result/>
+<expected result>цвет кнопки 'BE' при наведении курсора не изменяется, сама кнопка подсвечивается<expected result/>
