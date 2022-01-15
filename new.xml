@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <person>
+ 	<FIO>Камейша Татьяна Виторовна</FIO>
+ 	<age>22</age>
+ 	<pets null="true"/>
+ 	<future desired salary>1000<future desired salary/>
+  </person>
